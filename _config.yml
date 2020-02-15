@@ -6,6 +6,7 @@ baseurl: "/"
 url: "https://pont.cat"
 twitter_username: jekyllrb
 github_username: jekyll
+permalink: /:categories/:year/:month/:day/:title:output_ext
 
 # Build settings
 theme: jekyll-theme-hacker
