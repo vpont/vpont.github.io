@@ -4,8 +4,8 @@ description: >-
   My site
 baseurl: "/"
 url: "https://pont.cat"
-twitter_username: jekyllrb
-github_username: jekyll
+twitter_username: vicibz
+github_username: vpont
 permalink: /:categories/:year/:month/:day/:title:output_ext
 
 # Build settings
